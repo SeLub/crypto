@@ -1,0 +1,16 @@
+{
+  "name": "ecdh_aes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "echd-aes.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aes256": "^1.1.0",
+    "nodemon": "^2.0.20"
+  }
+}
